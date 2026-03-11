@@ -17,3 +17,9 @@ int CalculateMax(int[] values)
 
 int[] val = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
 Console.WriteLine(CalculateMax(val));
+
+int CalculateMin(int[] values)
+{
+    Console.WriteLine("We are here");
+    return values.Min();
+}
