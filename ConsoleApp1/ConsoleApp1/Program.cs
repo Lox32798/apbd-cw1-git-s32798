@@ -17,5 +17,6 @@ int CalculateMax(int[] values)
 
 int CalculateMin(int[] values)
 {
+    Console.WriteLine("We are here");
     return values.Min();
 }
