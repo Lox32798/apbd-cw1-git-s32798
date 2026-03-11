@@ -8,3 +8,4 @@ var c = a + b;
 Console.WriteLine(c);;
 Console.WriteLine("Feature1");
 Console.WriteLine("Feature2");
+Console.WriteLine("Niezalezny commit");
